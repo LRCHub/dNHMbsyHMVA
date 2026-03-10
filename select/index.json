@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "367Days",
+  "base_artist": "KiRaRe",
+  "createdAt": "2026-03-10T01:38:50.517065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "367Days",
+      "artist": "KiRaRe",
+      "has_synced": true,
+      "path": "select/01_367Days_KiRaRe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "367Days",
+      "artist": "KiRaRe (牧野天音, 鬼頭明里, 田澤茉純, 立花芽恵夢, 岩橋由佳, 空見ゆき)",
+      "has_synced": true,
+      "path": "select/02_367Days_KiRaRe_(牧野天音,_鬼頭明里,_田澤茉純,_立花芽恵夢,_岩橋由佳,_空見ゆき).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "367Days",
+      "artist": "KiRaRe",
+      "has_synced": false,
+      "path": "select/pl_01_367Days_KiRaRe.txt"
+    }
+  ]
+}
